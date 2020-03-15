@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Beeline Java (Examples)
+Implementation-Version: 2.1.1.RELEASE
+Built-By: hanajava
+Implementation-Vendor-Id: io.honeycomb.beeline
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/beeline-examples
+Created-By: Maven Integration for Eclipse
+
